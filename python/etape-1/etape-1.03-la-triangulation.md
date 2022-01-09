@@ -8,7 +8,7 @@ def test_calculate_number_when_one_number():
     assert calculate("54") == 54
 ```
 
-et regadons le échouer : 
+et regardons le échouer : 
 ```
 FAILED  [100%]
 test_string_calculator.py:10 (test_calculate_number_when_one_number)
