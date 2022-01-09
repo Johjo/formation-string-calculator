@@ -11,7 +11,7 @@
 
 Dans cette partie, nous allons mettre en place la première étape du Kata string calculator.
 
-Référence : [[Kata - String Calculator - Enoncé#Etape 1 - Additionner 0 1 ou 2 nombres]]
+[Rappel de l'énoncé](/description.md)
 
 Nous souhaitons créer une méthode calculate qui permet d'additionner 0, 1 ou 2 nombres. Les étapes suivantes nous permettront de réaliser l'exercice
 
