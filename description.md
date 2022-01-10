@@ -149,7 +149,7 @@ Il peut désormais y avoir plusieurs délimiteurs personnalisés grâce à la sy
 
 Par exemple : 
 ```java
-    calculate("//{%}{**}\n5%2*3") // doit renvoyer 13
+    calculate("//{+}{|}\n5+2|3") // doit renvoyer 10
 ```
 
 ### Etape 10 - Plusieurs délimiteurs de taille variable
